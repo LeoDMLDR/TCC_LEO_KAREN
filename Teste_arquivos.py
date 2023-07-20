@@ -57,5 +57,5 @@ for cell in data['B']:
         column2_f.append(ponto)   
 
 print(column1_f[0])
-print(column2_f[0])
+print(column1_f[0])
 #print(column3)
